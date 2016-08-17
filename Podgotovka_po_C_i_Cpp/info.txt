@@ -1,0 +1,28 @@
+Directives:
+
+#include
+#define
+#undef
+
+#if
+#ifdef
+#ifndef
+#else
+#elif
+#endif
+
+#error
+
+#pragma once
+
+Exaples of directives:
+
+#define SIZE 100
+#define PRINT_X printf("X:\t%7d\n",x)
+#define CUBE(N) ((N)*(N)*(N))
+
+Macros:
+__macros
+
+Codesyle:
+https://ejudge.ru/study/3sem/style.shtml 
