@@ -1,3 +1,4 @@
+//TODO: resolve the task
 #include <iostream>
 #include <conio.h>
 
