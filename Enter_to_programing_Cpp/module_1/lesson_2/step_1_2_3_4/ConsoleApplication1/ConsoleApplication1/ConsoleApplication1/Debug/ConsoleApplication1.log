@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\magic\desktop\stepic\enter_to_programing_cpp\module_1\lesson_2\step_1\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(6): error C2059: syntax error: ';'
-c:\users\magic\desktop\stepic\enter_to_programing_cpp\module_1\lesson_2\step_1\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(7): error C2059: syntax error: 'return'
-c:\users\magic\desktop\stepic\enter_to_programing_cpp\module_1\lesson_2\step_1\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(8): error C2059: syntax error: '}'
-c:\users\magic\desktop\stepic\enter_to_programing_cpp\module_1\lesson_2\step_1\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(8): error C2143: syntax error: missing ';' before '}'
