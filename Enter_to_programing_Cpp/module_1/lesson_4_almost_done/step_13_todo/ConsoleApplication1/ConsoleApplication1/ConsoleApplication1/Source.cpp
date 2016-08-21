@@ -12,16 +12,22 @@ int main() {
 	int N, M, K;
 	cin >> N >> M >> K;
 
-	int maxSide = max(N, M);
-	int minSide = min(N, M);
+	//int maxSide = max(N, M);
+	//int minSide = min(N, M);
 	
 	bool ifOneSideEqualsK = M == K || N == K;
 	bool canBeCuttedForKpieces = false;
 
-	for (int i = 1; i < maxSide; i++)
+	for (int i = 1; i < N; i++)
 	{
-		if (M * N / i == K) { canBeCuttedForKpieces = true; }
+		if (M * i == K) { canBeCuttedForKpieces = true; }
 	}
+
+	for (int i = 1; i < M; i++)
+	{
+		if (N * i == K) { canBeCuttedForKpieces = true; }
+	}
+
 	if(ifOneSideEqualsK || canBeCuttedForKpieces) { cout << "YES"; }
 	else {
 
