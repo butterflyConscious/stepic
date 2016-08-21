@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\magic\desktop\stepic\stepic\enter_to_programing_cpp\module_1\lesson_5\step_6\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\magic\desktop\stepic\stepic\enter_to_programing_cpp\module_1\lesson_5\step_6\consoleapplication1\consoleapplication1\consoleapplication1\source.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Magic\Desktop\stepic\stepic\Enter_to_programing_Cpp\module_1\lesson_5\step_6\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Magic\Desktop\stepic\stepic\Enter_to_programing_Cpp\module_1\lesson_5\step_6\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
